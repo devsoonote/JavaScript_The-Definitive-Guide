@@ -85,6 +85,7 @@
                     alert(Number(bigint) + number); // 3
                  ```
    - 텍스트
+     - ㅇㅇ
    - 불 값
    - null과 undefined
    - 심벌
